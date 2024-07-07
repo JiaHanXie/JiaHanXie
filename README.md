@@ -2,7 +2,8 @@
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahanxie)
 
-### ![Course, Project and Homework](https://github.com/JiaHanXie/JiaHanXie/blob/main/project%26homework.md)
+### Course, Project and Homework
+- ![Link](https://github.com/JiaHanXie/JiaHanXie/blob/main/project%26homework.md)
 
 ### IC Contest (Practice)
 | Year | Name | Language | Link |
